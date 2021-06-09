@@ -1,4 +1,4 @@
-access_ip = "0.0.0.0/0" # You should put in the cidr block for your own ip
+access_ip = "<REPLACE THIS WITH YOUR HOME CIDR" # You should put in the cidr block for your own ip
 dbname = "rancher"
 dbuser = "admin"
-dbpassword = "qwerQWER1@@"
+dbpassword = "qwerQWER1--"
